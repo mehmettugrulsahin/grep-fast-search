@@ -52,7 +52,7 @@ grep -r bind
 ```
 
 ```bash
-git grep bind 
+git grep bind
 grep -r --color bind .
 ```
 
